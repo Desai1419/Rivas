@@ -7,7 +7,7 @@
     <h1 align="Center">Rivas Images</h1>
     <main>
       <h2>Log in</h2>
-      <form>
+      <form action="Photo.php>
       <div>
         <label for="uname"><b>Username</b></label>
         <input type="text" placeholder="Enter Password" name="psw" required>
